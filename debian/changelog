@@ -1,0 +1,43 @@
+jupyterlab-pygments (0.1.2-7) unstable; urgency=medium
+
+  * Fix d/watch (again).
+
+ -- Julien Puydt <jpuydt@debian.org>  Tue, 26 Oct 2021 16:58:57 +0200
+
+jupyterlab-pygments (0.1.2-6) unstable; urgency=medium
+
+  * Fix d/watch.
+  * Bump standards-version to 4.6.0.
+
+ -- Julien Puydt <jpuydt@debian.org>  Sat, 04 Sep 2021 23:17:13 +0200
+
+jupyterlab-pygments (0.1.2-5) unstable; urgency=medium
+
+  * Re-upload for testing migration.
+
+ -- Julien Puydt <jpuydt@debian.org>  Tue, 08 Dec 2020 09:17:06 +0100
+
+jupyterlab-pygments (0.1.2-4) unstable; urgency=medium
+
+  * Bump std-vers to 4.5.1.
+
+ -- Julien Puydt <jpuydt@debian.org>  Fri, 20 Nov 2020 10:39:56 +0100
+
+jupyterlab-pygments (0.1.2-3) unstable; urgency=medium
+
+  * Very first entry had a typo in the number, so I need
+   to close the right one (Closes: #972083).
+
+ -- Julien Puydt <jpuydt@debian.org>  Sun, 08 Nov 2020 21:02:55 +0100
+
+jupyterlab-pygments (0.1.2-2) unstable; urgency=medium
+
+  * Add python3.9-minimal to the test deps.
+
+ -- Julien Puydt <jpuydt@debian.org>  Sat, 07 Nov 2020 10:43:56 +0100
+
+jupyterlab-pygments (0.1.2-1) unstable; urgency=medium
+
+  * Initial packaging (Closes: #972983).
+
+ -- Julien Puydt <jpuydt@debian.org>  Tue, 13 Oct 2020 08:20:34 +0200
